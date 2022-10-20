@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptoyugen&label=Profile%20views&color=0e75b6&style=flat" alt="cryptoyugen" /> </p>
 
-- 🔭 I own a software development company **Byte Me**
+- 🚩 I own a software development company **Byte Me**
 
 - 🌱 I’m currently learning **Rust, Unity, Blender**
 
-- 👯 I’m looking to collaborate on **Crypto Projects**
+- 🔭 I’m looking to collaborate on **Crypto Projects**
 
 - 💬 Ask me about **Web3, JS, TS, JAVA**
 
