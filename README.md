@@ -35,7 +35,7 @@
   <table>
     <tr>
       <td><strong>🛠 Blockchain & Web3</strong></td>
-      <td>Solidity, Vyper, HardHat, Truffle, Ethers.js, Web3.js, HyperLedger</td>
+      <td>Solidity, HardHat, Truffle, Foundry, Ethers.js, Web3.js, Wagmi, W3Auth</td>
     </tr>
     <tr>
       <td><strong>🤖 AI Development</strong></td>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><strong>⚙️ Backend</strong></td>
-      <td>Java (Spring), Node.js, Nest.js, Rust, Express.js</td>
+      <td>Java (Spring), Node.js, Nest.js, Rust</td>
     </tr>
     <tr>
       <td><strong>☁️ Cloud & DevOps</strong></td>
