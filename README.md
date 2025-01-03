@@ -25,7 +25,7 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
     🔥 Founder & CEO at Byte Me – Driving innovation with Blockchain, AI, and Web3. <br>
-    🌐 Co-Founder at <a href="#" target="https://www.kmn.dev">KMN Srl</a> – Building decentralized and AI-powered solutions. <br>
+    🌐 Co-Founder at <a href="https://www.kmn.dev" target="_blank">KMN Srl</a> – Building decentralized and AI-powered solutions. <br>
     📈 Passionate about transforming industries through cutting-edge technology.
 </p>
 
