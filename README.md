@@ -17,9 +17,6 @@
     <a href="https://twitter.com/genesisyugen" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-Follow-informational?style=flat-square&logo=twitter&color=1DA1F2">
     </a>
-    <a href="https://www.linkedin.com/in/francesco-mercogliano-7b2320115/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin&color=0A66C2">
-    </a>
 </p>
 
 <h2 align="center">✨ About Me</h2>
