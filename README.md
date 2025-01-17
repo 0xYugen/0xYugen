@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Francesco (aka Yugen) 👋</h1>
+<h1 align="center">🚀 Hey, I'm Yugen 👋</h1>
 <h3 align="center">🧑‍💻 Software Architect | Blockchain & AI Developer | Security Auditor | Tech Entrepreneur from Italy 🇮🇹</h3>
 
 <div align="center">
