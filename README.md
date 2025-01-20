@@ -60,7 +60,7 @@
 
 <h2 align="center">🔥 My GitHub Contribution Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fmerco&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xYugen&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 <h2 align="center">🎯 Current Focus</h2>
@@ -72,8 +72,8 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmerco&show_icons=true&theme=tokyonight&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmerco&layout=compact&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xYugen&show_icons=true&theme=tokyonight&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYugen&layout=compact&theme=tokyonight">
 </div>
 
 <h2 align="center">🌐 Connect with Me</h2>
